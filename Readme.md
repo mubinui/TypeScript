@@ -12,3 +12,13 @@
 <li> The <code>type</code> always be lowercase.
 <li> <code> number</code> type contains Integer and Floating type values 
 <li> Specifying <code> type </code> is not necessary 
+<li> We will use <b> any</b> when we don't know which data-type is necessary
+<li> There are also <code> undefined </code> and <code> null </code> type in TS
+<h3> TypeScript Arrays </h3>
+<li>
+<h3> Functions</h3>
+<li> Example 01 :<br> <code>function addTwo(num:number){
+    <br>return num**2;
+   <br> // ** here power operation 
+<br>}</code>
+<li>
